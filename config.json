@@ -11,79 +11,75 @@
     },
     {
       "path": "Pal/Binaries/Win64/Mods/ActorDumperMod/Scripts/main.lua",
-      "md5": "c1369ef076b4bba41ab34306c349c61a"
+      "md5": "0a329d02c1c693d16d10976155e97968"
     },
     {
-      "path": "Pal/Binaries/Win64/Mods/AutoConnectMod/lua/main.lua",
-      "md5": "f1bfb4a417eed6a176ce07790543482a"
-    },
-    {
-      "path": "Pal/Binaries/Win64/Mods/AutoConnectMod/pak/README.md",
-      "md5": "819dcc0104fc13c5187942341e0a54af"
+      "path": "Pal/Binaries/Win64/Mods/AutoConnectMod/Scripts/main.lua",
+      "md5": "f721a09270690f255f0b8f0f9d616a84"
     },
     {
       "path": "Pal/Binaries/Win64/Mods/BPML_GenericFunctions/Scripts/main.lua",
-      "md5": "e72d7ef4d5c7339e4afa184a3ae785cf"
+      "md5": "879585b8c5aaf9417fd85e58b7bff359"
     },
     {
       "path": "Pal/Binaries/Win64/Mods/BPModLoaderMod/load_order.txt",
-      "md5": "4a3008c888923cbfb07adc0b4bd80586"
+      "md5": "f3230a3e54b142e5a2b3c580f1097e28"
     },
     {
       "path": "Pal/Binaries/Win64/Mods/BPModLoaderMod/Scripts/main.lua",
-      "md5": "95f9a27baa82b6db023a24c3f1404fea"
+      "md5": "2c523566119c32a399546d07e5e701c2"
     },
     {
       "path": "Pal/Binaries/Win64/Mods/CheatManagerEnablerMod/Scripts/main.lua",
-      "md5": "152170e1a54b1eed2f3660666e40401c"
+      "md5": "5281fe32ad03083b9bd79df96dff42e6"
     },
     {
       "path": "Pal/Binaries/Win64/Mods/ConsoleCommandsMod/Scripts/dump_object.lua",
-      "md5": "4a71639aac948a443afc6bc2fab8e4fe"
+      "md5": "79123e609137db037a16d5143fc092f5"
     },
     {
       "path": "Pal/Binaries/Win64/Mods/ConsoleCommandsMod/Scripts/main.lua",
-      "md5": "bfc2cc77be365c982aa88c45cc800413"
+      "md5": "09f1da528c79f050ce5e70b0edcfda88"
     },
     {
       "path": "Pal/Binaries/Win64/Mods/ConsoleCommandsMod/Scripts/set.lua",
-      "md5": "2be1944940b03725429407c539867a92"
+      "md5": "392112ba5e2c44d1c66ba285d9521d12"
     },
     {
       "path": "Pal/Binaries/Win64/Mods/ConsoleCommandsMod/Scripts/summon_unloaded_assets.lua",
-      "md5": "6b90b972c9a52f22f44f4776c9f010a4"
+      "md5": "14b47db6e360a6fe4747d5f91346a4da"
     },
     {
       "path": "Pal/Binaries/Win64/Mods/ConsoleEnablerMod/Scripts/main.lua",
-      "md5": "9d78803441066a4da33f0801abbd789a"
+      "md5": "7bb78cea7fb3f422014e90ddb2baee35"
     },
     {
       "path": "Pal/Binaries/Win64/Mods/jsbLuaProfilerMod/Scripts/main.lua",
-      "md5": "35caa1a3889ee963a520dc3e841e8204"
+      "md5": "7b9d6d4b3d1286946c8145a54b58d515"
     },
     {
       "path": "Pal/Binaries/Win64/Mods/Keybinds/Scripts/main.lua",
-      "md5": "6d143b511c51c7f193817eb72487d17a"
+      "md5": "b7dac71c149bd8cd07099a4a44f8db67"
     },
     {
       "path": "Pal/Binaries/Win64/Mods/LineTraceMod/Scripts/main.lua",
-      "md5": "83666d6b438ed82ec40e2b573da0d557"
+      "md5": "cea3a7848c525fbd2abc88e2f1d92ac8"
     },
     {
       "path": "Pal/Binaries/Win64/Mods/mods.txt",
-      "md5": "fec8f8c92afc1181e0d839f329fcaa3d"
+      "md5": "a938a044da1ed049da44598592239caa"
     },
     {
       "path": "Pal/Binaries/Win64/Mods/shared/jsbProfiler/jsbProfi.lua",
-      "md5": "9bb34efac0dd31ade2daccb3e7dfd0a5"
+      "md5": "ff23b200e357226eaf36f421eeb6ad42"
     },
     {
       "path": "Pal/Binaries/Win64/Mods/shared/UEHelpers/UEHelpers.lua",
-      "md5": "91085ef2a6024d0325939c9f1d46a057"
+      "md5": "0381def787a3df96ed868ea4195dd7f1"
     },
     {
       "path": "Pal/Binaries/Win64/Mods/SplitScreenMod/Scripts/main.lua",
-      "md5": "aac96a6a7cad0cac3ae24258f8c04063"
+      "md5": "dabbc23b426a9515a6e337acb0ba692c"
     },
     {
       "path": "Pal/Binaries/Win64/README.md",
@@ -96,6 +92,30 @@
     {
       "path": "Pal/Binaries/Win64/UE4SS.dll",
       "md5": "4c177b9efab4fbb775a37bfd9b917fdd"
+    },
+    {
+      "path": "Pal/Content/Paks/~mods/BNLrelease_P.pak",
+      "md5": "5ee402fec76e0716f1e076ec8643f990"
+    },
+    {
+      "path": "Pal/Content/Paks/LogicMods/DekBasicMinimap_P.modconfig.json",
+      "md5": "ad82f3ef369cdbdb3a20e7b9ab3ff467"
+    },
+    {
+      "path": "Pal/Content/Paks/LogicMods/DekBasicMinimap_P.pak",
+      "md5": "ab8444bc287a2eeaad44fd2ab55053ba"
+    },
+    {
+      "path": "Pal/Content/Paks/LogicMods/DekBasicMinimap_P.png",
+      "md5": "e8afc80bb76785ca70cd22ff2a11aa7c"
+    },
+    {
+      "path": "Pal/Content/Paks/LogicMods/PalAnalyzer.pak",
+      "md5": "4bd0136661c01ce040e033285c0dbd69"
+    },
+    {
+      "path": "Pal/Content/Paks/LogicMods/PalAnalyzerConfig.json",
+      "md5": "3976bb20fc9bd27775cba871b5a23a5d"
     }
   ]
 }
