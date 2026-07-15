@@ -1,0 +1,93 @@
+{
+  "mumbleUrl": "...",
+  "files": [
+    {
+      "path": "Pal/Binaries/Win64/Changelog.md",
+      "md5": "18fa121b4f19d1fa9d87253f9dfd52da"
+    },
+    {
+      "path": "Pal/Binaries/Win64/dwmapi.dll",
+      "md5": "44fc95f73bc740bf628101c27e307729"
+    },
+    {
+      "path": "Pal/Binaries/Win64/Mods/ActorDumperMod/Scripts/main.lua",
+      "md5": "c1369ef076b4bba41ab34306c349c61a"
+    },
+    {
+      "path": "Pal/Binaries/Win64/Mods/BPML_GenericFunctions/Scripts/main.lua",
+      "md5": "e72d7ef4d5c7339e4afa184a3ae785cf"
+    },
+    {
+      "path": "Pal/Binaries/Win64/Mods/BPModLoaderMod/load_order.txt",
+      "md5": "4a3008c888923cbfb07adc0b4bd80586"
+    },
+    {
+      "path": "Pal/Binaries/Win64/Mods/BPModLoaderMod/Scripts/main.lua",
+      "md5": "95f9a27baa82b6db023a24c3f1404fea"
+    },
+    {
+      "path": "Pal/Binaries/Win64/Mods/CheatManagerEnablerMod/Scripts/main.lua",
+      "md5": "152170e1a54b1eed2f3660666e40401c"
+    },
+    {
+      "path": "Pal/Binaries/Win64/Mods/ConsoleCommandsMod/Scripts/dump_object.lua",
+      "md5": "4a71639aac948a443afc6bc2fab8e4fe"
+    },
+    {
+      "path": "Pal/Binaries/Win64/Mods/ConsoleCommandsMod/Scripts/main.lua",
+      "md5": "bfc2cc77be365c982aa88c45cc800413"
+    },
+    {
+      "path": "Pal/Binaries/Win64/Mods/ConsoleCommandsMod/Scripts/set.lua",
+      "md5": "2be1944940b03725429407c539867a92"
+    },
+    {
+      "path": "Pal/Binaries/Win64/Mods/ConsoleCommandsMod/Scripts/summon_unloaded_assets.lua",
+      "md5": "6b90b972c9a52f22f44f4776c9f010a4"
+    },
+    {
+      "path": "Pal/Binaries/Win64/Mods/ConsoleEnablerMod/Scripts/main.lua",
+      "md5": "9d78803441066a4da33f0801abbd789a"
+    },
+    {
+      "path": "Pal/Binaries/Win64/Mods/jsbLuaProfilerMod/Scripts/main.lua",
+      "md5": "35caa1a3889ee963a520dc3e841e8204"
+    },
+    {
+      "path": "Pal/Binaries/Win64/Mods/Keybinds/Scripts/main.lua",
+      "md5": "6d143b511c51c7f193817eb72487d17a"
+    },
+    {
+      "path": "Pal/Binaries/Win64/Mods/LineTraceMod/Scripts/main.lua",
+      "md5": "83666d6b438ed82ec40e2b573da0d557"
+    },
+    {
+      "path": "Pal/Binaries/Win64/Mods/mods.txt",
+      "md5": "39ebb702e198591a453ef22ef81bb997"
+    },
+    {
+      "path": "Pal/Binaries/Win64/Mods/shared/jsbProfiler/jsbProfi.lua",
+      "md5": "9bb34efac0dd31ade2daccb3e7dfd0a5"
+    },
+    {
+      "path": "Pal/Binaries/Win64/Mods/shared/UEHelpers/UEHelpers.lua",
+      "md5": "91085ef2a6024d0325939c9f1d46a057"
+    },
+    {
+      "path": "Pal/Binaries/Win64/Mods/SplitScreenMod/Scripts/main.lua",
+      "md5": "aac96a6a7cad0cac3ae24258f8c04063"
+    },
+    {
+      "path": "Pal/Binaries/Win64/README.md",
+      "md5": "e862533f26f503d6878680c24806f1d8"
+    },
+    {
+      "path": "Pal/Binaries/Win64/UE4SS-settings.ini",
+      "md5": "1d580a6db75a6492916d7b3b8a9234e4"
+    },
+    {
+      "path": "Pal/Binaries/Win64/UE4SS.dll",
+      "md5": "4c177b9efab4fbb775a37bfd9b917fdd"
+    }
+  ]
+}
