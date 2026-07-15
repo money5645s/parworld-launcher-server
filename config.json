@@ -1,5 +1,5 @@
 {
-  "mumbleUrl": "https://github.com/mumble-voip/mumble/releases/download/v1.5.634/mumble-1.5.634.winx64.msi",
+  "mumbleUrl": "...",
   "files": [
     {
       "path": "Pal/Binaries/Win64/Changelog.md",
