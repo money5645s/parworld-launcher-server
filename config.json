@@ -14,6 +14,14 @@
       "md5": "c1369ef076b4bba41ab34306c349c61a"
     },
     {
+      "path": "Pal/Binaries/Win64/Mods/AutoConnectMod/lua/main.lua",
+      "md5": "f1bfb4a417eed6a176ce07790543482a"
+    },
+    {
+      "path": "Pal/Binaries/Win64/Mods/AutoConnectMod/pak/README.md",
+      "md5": "819dcc0104fc13c5187942341e0a54af"
+    },
+    {
       "path": "Pal/Binaries/Win64/Mods/BPML_GenericFunctions/Scripts/main.lua",
       "md5": "e72d7ef4d5c7339e4afa184a3ae785cf"
     },
@@ -63,7 +71,7 @@
     },
     {
       "path": "Pal/Binaries/Win64/Mods/mods.txt",
-      "md5": "39ebb702e198591a453ef22ef81bb997"
+      "md5": "fec8f8c92afc1181e0d839f329fcaa3d"
     },
     {
       "path": "Pal/Binaries/Win64/Mods/shared/jsbProfiler/jsbProfi.lua",
