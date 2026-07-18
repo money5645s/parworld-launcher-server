@@ -92,30 +92,6 @@
     {
       "path": "Pal/Binaries/Win64/UE4SS.dll",
       "md5": "4c177b9efab4fbb775a37bfd9b917fdd"
-    },
-    {
-      "path": "Pal/Content/Paks/~mods/BNLrelease_P.pak",
-      "md5": "5ee402fec76e0716f1e076ec8643f990"
-    },
-    {
-      "path": "Pal/Content/Paks/LogicMods/DekBasicMinimap_P.modconfig.json",
-      "md5": "ad82f3ef369cdbdb3a20e7b9ab3ff467"
-    },
-    {
-      "path": "Pal/Content/Paks/LogicMods/DekBasicMinimap_P.pak",
-      "md5": "ab8444bc287a2eeaad44fd2ab55053ba"
-    },
-    {
-      "path": "Pal/Content/Paks/LogicMods/DekBasicMinimap_P.png",
-      "md5": "e8afc80bb76785ca70cd22ff2a11aa7c"
-    },
-    {
-      "path": "Pal/Content/Paks/LogicMods/PalAnalyzer.pak",
-      "md5": "4bd0136661c01ce040e033285c0dbd69"
-    },
-    {
-      "path": "Pal/Content/Paks/LogicMods/PalAnalyzerConfig.json",
-      "md5": "3976bb20fc9bd27775cba871b5a23a5d"
     }
   ]
 }
