@@ -10,12 +10,8 @@
       "md5": "44fc95f73bc740bf628101c27e307729"
     },
     {
-      "path": "Pal/Binaries/Win64/Mods/ActorDumperMod/Scripts/main.lua",
-      "md5": "0a329d02c1c693d16d10976155e97968"
-    },
-    {
       "path": "Pal/Binaries/Win64/Mods/AutoConnectMod/Scripts/main.lua",
-      "md5": "f721a09270690f255f0b8f0f9d616a84"
+      "md5": "0ff1ea87c004d8e9b0693d651f71fd01"
     },
     {
       "path": "Pal/Binaries/Win64/Mods/BPML_GenericFunctions/Scripts/main.lua",
@@ -54,32 +50,12 @@
       "md5": "7bb78cea7fb3f422014e90ddb2baee35"
     },
     {
-      "path": "Pal/Binaries/Win64/Mods/jsbLuaProfilerMod/Scripts/main.lua",
-      "md5": "7b9d6d4b3d1286946c8145a54b58d515"
-    },
-    {
       "path": "Pal/Binaries/Win64/Mods/Keybinds/Scripts/main.lua",
       "md5": "b7dac71c149bd8cd07099a4a44f8db67"
     },
     {
-      "path": "Pal/Binaries/Win64/Mods/LineTraceMod/Scripts/main.lua",
-      "md5": "cea3a7848c525fbd2abc88e2f1d92ac8"
-    },
-    {
       "path": "Pal/Binaries/Win64/Mods/mods.txt",
-      "md5": "a938a044da1ed049da44598592239caa"
-    },
-    {
-      "path": "Pal/Binaries/Win64/Mods/shared/jsbProfiler/jsbProfi.lua",
-      "md5": "ff23b200e357226eaf36f421eeb6ad42"
-    },
-    {
-      "path": "Pal/Binaries/Win64/Mods/shared/UEHelpers/UEHelpers.lua",
-      "md5": "0381def787a3df96ed868ea4195dd7f1"
-    },
-    {
-      "path": "Pal/Binaries/Win64/Mods/SplitScreenMod/Scripts/main.lua",
-      "md5": "dabbc23b426a9515a6e337acb0ba692c"
+      "md5": "71fc862c99d1621a289827b6db63933c"
     },
     {
       "path": "Pal/Binaries/Win64/README.md",
