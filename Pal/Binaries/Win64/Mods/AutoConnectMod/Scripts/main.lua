@@ -1,6 +1,6 @@
-local serverIP = "naru.ancientwizard.net"
-local serverPort = 25530
-local serverPassword = "144244"
+local serverIP = "server.starj.kro.kr"
+local serverPort = 4747
+local serverPassword = "3291216"
 
 NotifyOnNewObject("/Script/Pal.PalUIJoinGameBase", function(JoinGame)
     local PalUtility = StaticFindObject("/Script/Pal.Default__PalUtility")
